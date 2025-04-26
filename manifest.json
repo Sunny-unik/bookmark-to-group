@@ -1,0 +1,12 @@
+{
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "ico.png",
+    "default_title": "Bookmark to Tab Group"
+  },
+  "manifest_version": 3,
+  "name": "Bookmark Group Opener",
+  "version": "1.0.0",
+  "description": "Open bookmark folders as groups of tabs and manage individual bookmarks",
+  "permissions": ["bookmarks", "tabs", "tabGroups"]
+}
